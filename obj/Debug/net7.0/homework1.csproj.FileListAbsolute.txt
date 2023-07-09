@@ -1,0 +1,15 @@
+/Users/alevtinabarinova/Desktop/seminarhw1/homework1/bin/Debug/net7.0/homework1
+/Users/alevtinabarinova/Desktop/seminarhw1/homework1/bin/Debug/net7.0/homework1.deps.json
+/Users/alevtinabarinova/Desktop/seminarhw1/homework1/bin/Debug/net7.0/homework1.runtimeconfig.json
+/Users/alevtinabarinova/Desktop/seminarhw1/homework1/bin/Debug/net7.0/homework1.dll
+/Users/alevtinabarinova/Desktop/seminarhw1/homework1/bin/Debug/net7.0/homework1.pdb
+/Users/alevtinabarinova/Desktop/seminarhw1/homework1/obj/Debug/net7.0/homework1.csproj.AssemblyReference.cache
+/Users/alevtinabarinova/Desktop/seminarhw1/homework1/obj/Debug/net7.0/homework1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alevtinabarinova/Desktop/seminarhw1/homework1/obj/Debug/net7.0/homework1.AssemblyInfoInputs.cache
+/Users/alevtinabarinova/Desktop/seminarhw1/homework1/obj/Debug/net7.0/homework1.AssemblyInfo.cs
+/Users/alevtinabarinova/Desktop/seminarhw1/homework1/obj/Debug/net7.0/homework1.csproj.CoreCompileInputs.cache
+/Users/alevtinabarinova/Desktop/seminarhw1/homework1/obj/Debug/net7.0/homework1.dll
+/Users/alevtinabarinova/Desktop/seminarhw1/homework1/obj/Debug/net7.0/refint/homework1.dll
+/Users/alevtinabarinova/Desktop/seminarhw1/homework1/obj/Debug/net7.0/homework1.pdb
+/Users/alevtinabarinova/Desktop/seminarhw1/homework1/obj/Debug/net7.0/homework1.genruntimeconfig.cache
+/Users/alevtinabarinova/Desktop/seminarhw1/homework1/obj/Debug/net7.0/ref/homework1.dll
